@@ -1,1 +1,1 @@
-# atividades_em_sala_2semestre
+# Atividades de Programação Estruturada
